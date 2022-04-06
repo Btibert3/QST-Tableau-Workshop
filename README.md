@@ -39,7 +39,15 @@ This repository contains the materials for the 2022 Questrom MBA Tableau Worksho
 1.  Fundamentals (Download icon in the upper right)
     1.  Exercise Questions: https://docs.google.com/document/d/1z9MrgjE6bMLbFy0_xFGOaAE47BH79hO_mglk4PpM3vE/edit?usp=sharing
     2.  Starter Workbook: https://drive.google.com/file/d/1BS_o__E2nfTcSaZ1a1FLG2f6FIFzk3tN/view?usp=sharing
-2.  
+2.  Charting Fundamentals - Putting it all Together
+    1.  This uses the World Indicators dataset that is included with Tableau
+    2.  https://drive.google.com/file/d/1c2BUHXUwlG3BEG8BNWDYBm0Y1papzsXf/view?usp=sharing
+3.  Calculations
+    1.  The captions can help guide you through the process
+    2.  Starter Workbook (with embedded data): https://drive.google.com/file/d/1aHWicCRM0XRqB86oMJYpZ2RTSUj6suwJ/view?usp=sharing
+4.  Mapping
+    1.  The Exercise Notes:  https://docs.google.com/document/d/1qUEoHGfCq2mbNOEe09TMDRgzE_o_JFE1CuEL0Z5Pw_4/edit?usp=sharing
+    2.  The Dataset can be found in the datasets folder (Boston-311.csv)
 
 
 # Resources
