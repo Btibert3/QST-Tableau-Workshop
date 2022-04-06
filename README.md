@@ -1,4 +1,4 @@
-# QST-Tableau-Workshop  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width = "175" height = "200" align="right" />
+# QST-Tableau-Workshop  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width = "175" height = "200" align="right" />
 
 
 
