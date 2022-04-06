@@ -47,6 +47,6 @@ This repository contains the materials for the 2022 Questrom MBA Tableau Worksho
 
 ## Guides (Requires BU Account):
 
-- Charting Fundamentals: [](https://drive.google.com/file/d/1uinwvSdH56CAX4PaaUtiIOUQi4c29yr5/view?usp=sharing)
-- Calculations: [](https://drive.google.com/file/d/1LyT8r3opkHYXZXn0v--ov9M3ttEc4tRm/view?usp=sharing)
-- Mapping with Tableau: [](https://drive.google.com/file/d/1d_jqGWvtyGK9WygM6mt-KL_frBK8AiGP/view?usp=sharing)
+- Charting Fundamentals: https://drive.google.com/file/d/1uinwvSdH56CAX4PaaUtiIOUQi4c29yr5/view?usp=sharing
+- Calculations: https://drive.google.com/file/d/1LyT8r3opkHYXZXn0v--ov9M3ttEc4tRm/view?usp=sharing
+- Mapping with Tableau: https://drive.google.com/file/d/1d_jqGWvtyGK9WygM6mt-KL_frBK8AiGP/view?usp=sharing
