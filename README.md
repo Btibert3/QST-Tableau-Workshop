@@ -3,11 +3,22 @@
 
 This repository contains the materials for the 2022 Questrom MBA Tableau Workshop.
 
-## Technical Requirements
+## Pre-Workshop Requirements
 
 - Laptop with Tableau Desktop Installed
 
 > NOTE:  Tableau provides a free 1-year license for Educational use.  To gain access to this generous license, please create an account with your BU email address here: https://www.tableau.com/academic/students
+
 ## Learning Objectives
 
-1.  Familiarity with T
+1.  Discussion of Data Visualization Best Practices and Considerations
+2.  Working with Data in Tableau Desktop
+3.  Creating Interactive Charts
+4.  Data Management (Calcualted Field, Groups, )
+
+
+## Material (Requires BU Account on Google Drive)
+
+- Intro Slides: https://docs.google.com/presentation/d/1y0iQrgUQ8A8h_c-Sm38U3NOzR5W5DY9SVV8JpgK5UGg/edit?usp=sharing
+
+
