@@ -34,6 +34,14 @@ This repository contains the materials for the 2022 Questrom MBA Tableau Worksho
 - Dashboards
 
 
+## Exercises
+
+1.  Fundamentals (Download icon in the upper right)
+    1.  Exercise Questions: https://docs.google.com/document/d/1z9MrgjE6bMLbFy0_xFGOaAE47BH79hO_mglk4PpM3vE/edit?usp=sharing
+    2.  Starter Workbook: https://drive.google.com/file/d/1BS_o__E2nfTcSaZ1a1FLG2f6FIFzk3tN/view?usp=sharing
+2.  
+
+
 # Resources
 
 
