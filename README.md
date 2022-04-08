@@ -1,9 +1,9 @@
 # QST-Tableau-Workshop  <img src="https://tas.businesshub.london/wp-content/uploads/2021/02/tableau-integration-logo.png" width = "250" height = "250" align="right" />
 
-Brock Tibert
-btibert@bu.edu
-618A
-https://www.linkedin.com/in/brocktibert
+Brock Tibert 
+btibert@bu.edu 
+618A 
+https://www.linkedin.com/in/brocktibert 
 
 This repository contains the materials for the 2022 Questrom MBA Tableau Workshop.
 
