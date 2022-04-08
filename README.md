@@ -7,6 +7,9 @@
 
 This repository contains the materials for the 2022 Questrom MBA Tableau Workshop.
 
+- Room 224
+- 2-5pm
+
 ## Pre-Workshop Requirements
 
 - Laptop with Tableau Desktop Installed
