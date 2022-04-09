@@ -57,7 +57,7 @@ This repository contains the materials for the 2022 Questrom MBA Tableau Worksho
     2.  The Dataset can be found in the datasets folder (Boston-311.csv)
 5.  Dashboard - Airline Satisfaction Survey
     1.  The Exercise Notes:  https://docs.google.com/document/d/1s8IUAOlJxSESwS4H1WXD-6_fhx2J_bDIIENQFjj-h98/edit?usp=sharing
-    2.  The datacane be found in the datasets folder (Airline Satisfaction Survey.xlsx)
+    2.  The data can be found in the datasets folder (Airline Satisfaction Survey.xlsx)
 
 # Resources
 
