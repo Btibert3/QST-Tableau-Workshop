@@ -61,7 +61,7 @@ This repository contains the materials for the 2022 Questrom MBA Tableau Worksho
 
 # Resources
 
-- Tableau Reader = Allow users to review/interact with packaged workbooks ![](https://www.tableau.com/products/reader)
+- Tableau Reader = Allow users to review/interact with packaged workbooks: https://www.tableau.com/products/reader
 
 ## Helpful links:
 
