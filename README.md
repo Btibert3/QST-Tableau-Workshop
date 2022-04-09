@@ -61,9 +61,11 @@ This repository contains the materials for the 2022 Questrom MBA Tableau Worksho
 
 # Resources
 
+- Tableau Reader = Allow users to review/interact with packaged workbooks [](https://www.tableau.com/products/reader)
 
 ## Helpful links:
 
+- https://public.tableau.com/app/discover/viz-of-the-day
 - https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day
 - https://help.tableau.com/current/pro/desktop/en-us/formatting_create_custom_colors.htm
 - https://www.tableau.com/drive/custom-shapes
