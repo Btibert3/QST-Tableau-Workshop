@@ -35,8 +35,8 @@ This repository contains the materials for the 2022 Questrom MBA Tableau Worksho
 
 ### Session 2 Outline
 
-- Formulas
-- Parameters
+- Recap of Basic Navigation and Charting
+- Calculated Fields and Parameters
 - Mapping
 - Dashboards
 
@@ -48,7 +48,8 @@ This repository contains the materials for the 2022 Questrom MBA Tableau Worksho
     2.  Starter Workbook: https://drive.google.com/file/d/1BS_o__E2nfTcSaZ1a1FLG2f6FIFzk3tN/view?usp=sharing
 2.  Charting Fundamentals - Putting it all Together
     1.  This uses the World Indicators dataset that is included with Tableau
-    2.  https://drive.google.com/file/d/1c2BUHXUwlG3BEG8BNWDYBm0Y1papzsXf/view?usp=sharing
+    2.  Inspiration:  https://youtu.be/Z8t4k0Q8e8Y?t=28
+    3.  https://drive.google.com/file/d/1c2BUHXUwlG3BEG8BNWDYBm0Y1papzsXf/view?usp=sharing
 3.  Calculations
     1.  The captions can help guide you through the process
     2.  Starter Workbook (with embedded data): https://drive.google.com/file/d/1aHWicCRM0XRqB86oMJYpZ2RTSUj6suwJ/view?usp=sharing
