@@ -59,6 +59,8 @@ This repository contains the materials for the 2022 Questrom MBA Tableau Worksho
 5.  Dashboard - Airline Satisfaction Survey
     1.  The Exercise Notes:  https://docs.google.com/document/d/1s8IUAOlJxSESwS4H1WXD-6_fhx2J_bDIIENQFjj-h98/edit?usp=sharing
     2.  The data can be found in the datasets folder (Airline Satisfaction Survey.xlsx)
+    3.  Google Sheets Preview to review the dataset:  https://docs.google.com/spreadsheets/d/1Pbw3YU0ddgYejioZG95USAWsvugj5flNmdfRtaubsyM/edit?usp=sharing
+
 
 # Resources
 
